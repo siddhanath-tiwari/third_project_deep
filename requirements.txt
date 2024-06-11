@@ -1,5 +1,4 @@
-tensorflow
-pandas 
+tensorflow==2.16.1
 gdown
 dvc
 mlflow
